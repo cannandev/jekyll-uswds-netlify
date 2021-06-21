@@ -1,6 +1,6 @@
 ---
-title: Second page
 layout: post
+title: This is the Second blog page
 date: January 15, 2019
 author: George Washington
 excerpt: This is an excerpt for second page
