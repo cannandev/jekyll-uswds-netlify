@@ -1,8 +1,8 @@
 ---
-title: Third page
 layout: post
-date: January 16, 2019
-author: Benjamin Franklin
+title: This is the Second blog page in French
+date: January 15, 2019
+author: George Washington
 excerpt: This is an excerpt for second page
 ---
 
