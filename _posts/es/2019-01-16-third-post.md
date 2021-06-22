@@ -1,6 +1,6 @@
 ---
-title: Third page
 layout: post
+title: Third page es
 date: January 16, 2019
 author: Benjamin Franklin
 excerpt: This is an excerpt for second page
