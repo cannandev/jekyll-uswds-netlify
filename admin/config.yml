@@ -4,7 +4,7 @@ backend:
   base_url: https://federalistapp.18f.gov
   auth_endpoint: external/auth/github
   preview_context: federalist/build
-  branch: main
+  branch: ca-multiple-folders-i18n
 
 media_folder: assets/uploads
 public_folder: /images/uploads
@@ -29,12 +29,10 @@ collections:
     name: posts
     folder: _posts/
     create: true
-    slug: "{{locale}}/{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{locales.locale}}/{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
       preview: false
-    i18n:
-      structure: multiple_folders
-      locales: [en, es, fr]
+    i18n: true
     fields:
       - {
           label: "Layout",
