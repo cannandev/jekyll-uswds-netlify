@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is the Second blog page
+title: This is the Second blog page in Spanish
 date: January 15, 2019
 author: George Washington
 excerpt: This is an excerpt for second page
